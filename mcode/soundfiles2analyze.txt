@@ -1,0 +1,160 @@
+trial-10-in-normal,The puppy bit the tape.,1.000000
+trial-12-in-pitchup,She sat at the top stair.,3.000000
+trial-15-in-normal,Frank fought in the top ten.,1.000000
+trial-16-in-pitchdown,We mow our lawn all year.,2.000000
+trial-17-in-normal,She sat at the top stair.,1.000000
+trial-18-in-pitchup,We eat eels every day.,3.000000
+trial-2-in-pitchdown,She sat at the top stair.,2.000000
+trial-22-in-normal,We mow our lawn all year.,1.000000
+trial-23-in-pitchdown,The puppy bit the tape.,2.000000
+trial-24-in-normal,We mow our lawn all year.,1.000000
+trial-27-in-pitchup,Frank fought in the top ten.,3.000000
+trial-30-in-normal,We eat eels every day.,1.000000
+trial-31-in-pitchup,The puppy bit the tape.,3.000000
+trial-36-in-normal,We eat eels every day.,1.000000
+trial-37-in-pitchdown,Frank fought in the top ten.,2.000000
+trial-40-in-normal,The puppy bit the tape.,1.000000
+trial-5-in-normal,She sat at the top stair.,1.000000
+trial-6-in-pitchdown,We eat eels every day.,2.000000
+trial-8-in-normal,Frank fought in the top ten.,1.000000
+trial-9-in-pitchup,We mow our lawn all year.,3.000000
+trial-1-in-normal,She sat at the top stair.,1.000000
+trial-10-in-pitchdown,We eat eels every day.,2.000000
+trial-11-in-normal,Frank fought in the top ten.,1.000000
+trial-13-in-pitchup,Frank fought in the top ten.,3.000000
+trial-14-in-normal,We mow our lawn all year.,1.000000
+trial-17-in-pitchup,We mow our lawn all year.,3.000000
+trial-2-in-pitchdown,Frank fought in the top ten.,2.000000
+trial-21-in-normal,She sat at the top stair.,1.000000
+trial-22-in-pitchup,We eat eels every day.,3.000000
+trial-23-in-normal,The puppy bit the tape.,1.000000
+trial-26-in-pitchdown,The puppy bit the tape.,2.000000
+trial-28-in-normal,We mow our lawn all year.,1.000000
+trial-29-in-pitchup,She sat at the top stair.,3.000000
+trial-3-in-normal,The puppy bit the tape.,1.000000
+trial-32-in-normal,We eat eels every day.,1.000000
+trial-33-in-pitchdown,We mow our lawn all year.,2.000000
+trial-34-in-normal,We eat eels every day.,1.000000
+trial-39-in-pitchup,The puppy bit the tape.,3.000000
+trial-6-in-pitchdown,She sat at the top stair.,2.000000
+trial-8-in-normal,Frank fought in the top ten.,1.000000
+trial-1-in-normal,The puppy bit the tape.,1.000000
+trial-12-in-pitchdown,We mow our lawn all year.,2.000000
+trial-16-in-normal,The puppy bit the tape.,1.000000
+trial-17-in-pitchdown,The puppy bit the tape.,2.000000
+trial-18-in-normal,We eat eels every day.,1.000000
+trial-20-in-pitchup,We mow our lawn all year.,3.000000
+trial-22-in-normal,We mow our lawn all year.,1.000000
+trial-26-in-pitchup,She sat at the top stair.,3.000000
+trial-28-in-normal,We eat eels every day.,1.000000
+trial-29-in-pitchup,Frank fought in the top ten.,3.000000
+trial-3-in-pitchdown,We eat eels every day.,2.000000
+trial-31-in-normal,Frank fought in the top ten.,1.000000
+trial-32-in-pitchup,The puppy bit the tape.,3.000000
+trial-33-in-normal,We mow our lawn all year.,1.000000
+trial-35-in-pitchdown,Frank fought in the top ten.,2.000000
+trial-39-in-normal,Frank fought in the top ten.,1.000000
+trial-4-in-normal,She sat at the top stair.,1.000000
+trial-40-in-pitchdown,She sat at the top stair.,2.000000
+trial-8-in-pitchup,We eat eels every day.,3.000000
+trial-9-in-normal,She sat at the top stair.,1.000000
+trial-11-in-normal,She sat at the top stair.,1.000000
+trial-13-in-pitchup,The puppy bit the tape.,3.000000
+trial-14-in-normal,We eat eels every day.,1.000000
+trial-15-in-pitchup,She sat at the top stair.,3.000000
+trial-18-in-normal,We mow our lawn all year.,1.000000
+trial-19-in-pitchup,We eat eels every day.,3.000000
+trial-2-in-pitchdown,Frank fought in the top ten.,2.000000
+trial-23-in-normal,Frank fought in the top ten.,1.000000
+trial-24-in-pitchup,We mow our lawn all year.,3.000000
+trial-27-in-normal,She sat at the top stair.,1.000000
+trial-28-in-pitchdown,We mow our lawn all year.,2.000000
+trial-31-in-normal,We eat eels every day.,1.000000
+trial-33-in-pitchdown,We eat eels every day.,2.000000
+trial-35-in-normal,We mow our lawn all year.,1.000000
+trial-36-in-pitchdown,The puppy bit the tape.,2.000000
+trial-4-in-normal,The puppy bit the tape.,1.000000
+trial-40-in-normal,Frank fought in the top ten.,1.000000
+trial-5-in-pitchdown,She sat at the top stair.,2.000000
+trial-6-in-normal,The puppy bit the tape.,1.000000
+trial-9-in-pitchup,Frank fought in the top ten.,3.000000
+trial-1-in-pitchdown,The puppy bit the tape.,2.000000
+trial-10-in-normal,The puppy bit the tape.,1.000000
+trial-13-in-pitchup,Frank fought in the top ten.,3.000000
+trial-16-in-normal,Frank fought in the top ten.,1.000000
+trial-19-in-pitchup,The puppy bit the tape.,3.000000
+trial-21-in-normal,We eat eels every day.,1.000000
+trial-23-in-normal,We eat eels every day.,1.000000
+trial-25-in-pitchup,We eat eels every day.,3.000000
+trial-26-in-normal,She sat at the top stair.,1.000000
+trial-27-in-pitchdown,Frank fought in the top ten.,2.000000
+trial-3-in-normal,We mow our lawn all year.,1.000000
+trial-31-in-normal,Frank fought in the top ten.,1.000000
+trial-33-in-pitchdown,We eat eels every day.,2.000000
+trial-34-in-normal,She sat at the top stair.,1.000000
+trial-36-in-pitchup,We mow our lawn all year.,3.000000
+trial-37-in-normal,We mow our lawn all year.,1.000000
+trial-39-in-pitchdown,She sat at the top stair.,2.000000
+trial-7-in-pitchdown,We mow our lawn all year.,2.000000
+trial-8-in-normal,The puppy bit the tape.,1.000000
+trial-9-in-pitchup,She sat at the top stair.,3.000000
+trial-1-in-pitchup,Frank fought in the top ten.,3.000000
+trial-11-in-normal,Frank fought in the top ten.,1.000000
+trial-12-in-pitchdown,She sat at the top stair.,2.000000
+trial-14-in-normal,We eat eels every day.,1.000000
+trial-15-in-pitchup,The puppy bit the tape.,3.000000
+trial-18-in-normal,She sat at the top stair.,1.000000
+trial-19-in-pitchdown,The puppy bit the tape.,2.000000
+trial-20-in-normal,She sat at the top stair.,1.000000
+trial-23-in-pitchdown,We mow our lawn all year.,2.000000
+trial-26-in-normal,The puppy bit the tape.,1.000000
+trial-27-in-normal,We eat eels every day.,1.000000
+trial-29-in-pitchdown,We eat eels every day.,2.000000
+trial-3-in-normal,We mow our lawn all year.,1.000000
+trial-31-in-normal,We mow our lawn all year.,1.000000
+trial-33-in-pitchup,We mow our lawn all year.,3.000000
+trial-35-in-normal,Frank fought in the top ten.,1.000000
+trial-39-in-pitchup,We eat eels every day.,3.000000
+trial-5-in-pitchdown,Frank fought in the top ten.,2.000000
+trial-7-in-normal,The puppy bit the tape.,1.000000
+trial-8-in-pitchup,She sat at the top stair.,3.000000
+trial-1-in-normal,The puppy bit the tape.,1.000000
+trial-11-in-normal,Frank fought in the top ten.,1.000000
+trial-12-in-pitchdown,We mow our lawn all year.,2.000000
+trial-15-in-normal,We eat eels every day.,1.000000
+trial-17-in-pitchup,We eat eels every day.,3.000000
+trial-2-in-pitchdown,Frank fought in the top ten.,2.000000
+trial-21-in-normal,The puppy bit the tape.,1.000000
+trial-23-in-pitchdown,She sat at the top stair.,2.000000
+trial-25-in-normal,We mow our lawn all year.,1.000000
+trial-26-in-pitchdown,We eat eels every day.,2.000000
+trial-3-in-normal,She sat at the top stair.,1.000000
+trial-31-in-normal,Frank fought in the top ten.,1.000000
+trial-33-in-pitchdown,The puppy bit the tape.,2.000000
+trial-35-in-normal,She sat at the top stair.,1.000000
+trial-36-in-pitchup,We mow our lawn all year.,3.000000
+trial-38-in-normal,We eat eels every day.,1.000000
+trial-39-in-pitchup,She sat at the top stair.,3.000000
+trial-4-in-pitchup,The puppy bit the tape.,3.000000
+trial-6-in-normal,We mow our lawn all year.,1.000000
+trial-9-in-pitchup,Frank fought in the top ten.,3.000000
+trial-10-in-pitchdown,Frank fought in the top ten.,2.000000
+trial-13-in-normal,We eat eels every day.,1.000000
+trial-14-in-pitchup,Frank fought in the top ten.,3.000000
+trial-15-in-normal,The puppy bit the tape.,1.000000
+trial-18-in-pitchup,We mow our lawn all year.,3.000000
+trial-19-in-normal,We eat eels every day.,1.000000
+trial-2-in-normal,We mow our lawn all year.,1.000000
+trial-22-in-pitchdown,She sat at the top stair.,2.000000
+trial-25-in-normal,Frank fought in the top ten.,1.000000
+trial-29-in-pitchdown,We eat eels every day.,2.000000
+trial-3-in-pitchup,She sat at the top stair.,3.000000
+trial-31-in-normal,She sat at the top stair.,1.000000
+trial-32-in-pitchup,We eat eels every day.,3.000000
+trial-33-in-normal,We mow our lawn all year.,1.000000
+trial-35-in-pitchdown,The puppy bit the tape.,2.000000
+trial-37-in-normal,She sat at the top stair.,1.000000
+trial-38-in-pitchup,The puppy bit the tape.,3.000000
+trial-4-in-normal,Frank fought in the top ten.,1.000000
+trial-6-in-pitchdown,We mow our lawn all year.,2.000000
+trial-9-in-normal,The puppy bit the tape.,1.000000
